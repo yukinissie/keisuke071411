@@ -3,6 +3,8 @@
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=keisuke071411&show_icons=true&count_private=true&theme=dark)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs?username=keisuke071411&langs_count=3&theme=dark&hide=jupyter%20notebook,html)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=keisuke071411&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 **keisuke071411/keisuke071411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
